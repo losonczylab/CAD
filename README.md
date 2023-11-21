@@ -2,9 +2,9 @@
 Includes AutoDesk Inventor projects used for lab rigs, other miscellaneous CAD files, Adobe Illustrator files used for laser cutting, and user guides for constructing assemblies.
 
 ## Useful Programs
-  - <Arduino code>
-  - <KiCAD>
-  - <a href ="https://www.autodesk.com/products/inventor">meow</a> <Autodesk Inventor 2024 or Later>
+  - <a href="https://www.arduino.cc/en/software">Arduino IDE</a> - used to flash the Behavior Controller and Position Controller programs onto the Arduino Due and Arduino Nanos respectively.
+  - <a href"https://www.kicad.org/">KiCad</a>
+  - <a href ="https://www.autodesk.com/products/inventor">AutoDesk Inventor 2024 or Later (academic licenses available)</a>
 
 ## Electronics
 Includes the following
