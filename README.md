@@ -9,8 +9,8 @@ Includes AutoDesk Inventor projects used for lab rigs, other miscellaneous CAD f
 ## Electronics
 Includes the following
   - Arduino program for Behavior Controller and Position Controller
-  - KiCAD files for PCB boards for the Behavior and Position Controllers
-  - Manual for assembling a complete electronics box
+  - KiCad files for PCB boards for the Behavior and Position Controllers
+  - PDF manual for assembling a complete electronics box
 
 ## Full-Size-Rig
   - CAD files for frames holding full size displays
