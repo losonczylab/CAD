@@ -3,7 +3,7 @@ Includes AutoDesk Inventor projects used for lab rigs, other miscellaneous CAD f
 
 ## Useful Programs
   - <a href="https://www.arduino.cc/en/software">Arduino IDE</a> - used to flash the Behavior Controller and Position Controller programs onto the Arduino Due and Arduino Nanos respectively.
-  - <a href"https://www.kicad.org/">KiCad</a>
+  - <a href="https://www.kicad.org/">KiCad</a>
   - <a href ="https://www.autodesk.com/products/inventor">AutoDesk Inventor 2024 or Later (academic licenses available)</a>
 
 ## Electronics
