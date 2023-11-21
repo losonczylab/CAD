@@ -7,7 +7,6 @@ Includes AutoDesk Inventor projects used for lab rigs, other miscellaneous CAD f
   - <a href ="https://www.autodesk.com/products/inventor">AutoDesk Inventor 2024 or Later (academic licenses available)</a>
 
 ## Electronics
-Includes the following
   - Arduino program for Behavior Controller and Position Controller
   - KiCad files for PCB boards for the Behavior and Position Controllers
   - PDF manual for assembling a complete electronics box
