@@ -1,0 +1,86 @@
+Reference,Value,Footprint,Datasheet,additional parts,digikey,digikey_alt,Manufacturer Part Number,specs
+FID1,Fiducial,Fiducials:Fiducial_0.5mm_Dia_1mm_Outer,~,,,,,
+FID2,Fiducial,Fiducials:Fiducial_0.5mm_Dia_1mm_Outer,~,,,,,
+FID3,Fiducial,Fiducials:Fiducial_0.5mm_Dia_1mm_Outer,~,,,,,
+FID4,Fiducial,Fiducials:Fiducial_0.5mm_Dia_1mm_Outer,~,,,,,
+FID5,Fiducial,Fiducials:Fiducial_0.5mm_Dia_1mm_Outer,~,,,,,
+FID6,Fiducial,Fiducials:Fiducial_0.5mm_Dia_1mm_Outer,~,,,,,
+J1,NANO_L,Pin_Headers:Pin_Header_Straight_1x15_Pitch2.54mm,~,,,,,
+J2,NANO_R,Pin_Headers:Pin_Header_Straight_1x15_Pitch2.54mm,~,,,,,
+J3,ENCL,Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm,~,,,,,
+J4,ENCR,Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm,~,,,,,
+J6,SPIOut,additional_connectors:USB3_A_vertical_molex,https://www.molex.com/pdm_docs/sd/484080003_sd.pdf,,WM10421-ND,,484080003,
+J7,PWR,Connectors:USB_Micro-B,https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf,,609-4618-1-ND,,10118194-0001LF,
+J8,RESET,additional_connectors:Connectors_JST_B2B-PH-K,https://www.jst-mfg.com/product/pdf/eng/ePH.pdf,"SPH-002T-P0.5S (455-1127-1-ND), PHR-2 (455-1165-ND)",455-1704-ND,455-1719-ND,"B2B-PH-K-S, S2B-PH-K-S",
+J10,LAP RESET,additional_connectors:Connectors_JST_B4B-PH-K,https://www.jst-mfg.com/product/pdf/eng/ePH.pdf,"SPH-002T-P0.5S (455-1127-1-ND), PHR-4 (455-1164-ND)",455-1706-ND,455-1721-ND,"B4B-PH-K-S, S4B-PH-K-S",
+J11,ENCODER,additional_connectors:Connectors_JST_B4B-PH-K,https://www.jst-mfg.com/product/pdf/eng/ePH.pdf,"SPH-002T-P0.5S (455-1127-1-ND), PHR-4 (455-1164-ND)",455-1706-ND,455-1721-ND,"B4B-PH-K-S, S4B-PH-K-S",
+R1,100K,Resistors_SMD:R_0603,~,,,,,SMD 0603
+R2,100K,Resistors_SMD:R_0603,~,,,,,SMD 0603
+R3,100K,Resistors_SMD:R_0603,~,,,,,SMD 0603
+R4,100K,Resistors_SMD:R_0603,~,,,,,SMD 0603
+R5,100K,Resistors_SMD:R_0603,~,,,,,SMD 0603
+RIMP1,1K,Resistors_SMD:R_0603,~,,,,,SMD 0603
+TAc1,Ac,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TAcXBn1,AcXBn,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TAn1,An,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TAnXBc1,AnXBc,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TBc1,Bc,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TBn1,Bn,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TCLK1,CLK,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TDN1,DOWN,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TLatch1,latch,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TPGND1,GND,Measurement_Points:Measurement_Point_Round-TH_Big,~,,,,,
+TRead1,read,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+TUP1,UP,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,~,,,,,
+U1,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U2,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U3,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U4,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U5,74_574,Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm,https://www.ti.com/lit/ds/symlink/sn74lv574a.pdf,,296-12285-1-ND,,SN74LV574APWR,
+U6,74_21,Housings_SSOP:TSSOP-14_4.4x5mm_Pitch0.65mm,https://www.ti.com/lit/ds/symlink/sn74lv21a.pdf,,SN74LV21APWRG4-ND,,SN74LV21APWRG4,
+U7,74_1G27,TO_SOT_Packages_SMD:SOT-363_SC-70-6,https://www.ti.com/lit/ds/symlink/sn74lvc1g27.pdf,,296-18764-1-ND,,SN74LVC1G27DCKR,
+U8,74_1G27,TO_SOT_Packages_SMD:SOT-363_SC-70-6,https://www.ti.com/lit/ds/symlink/sn74lvc1g27.pdf,,296-18764-1-ND,,SN74LVC1G27DCKR,
+U10,74_112,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://rocelec.widen.net/view/pdf/bsnlpr6pvu/ONSM-S-A0003546545-1.pdf,, 74VHC112MTCXCT-ND,,74VHC112MTCX,
+U11,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U12,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U13,74_2G86,Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm,https://www.ti.com/lit/ds/symlink/sn74lvc2g86.pdf,,296-13274-1-ND,,SN74LVC2G86DCTR,
+U14,74_2G04,TO_SOT_Packages_SMD:SOT-363_SC-70-6,https://www.ti.com/lit/ds/symlink/sn74lvc2g04.pdf,,296-51609-1-ND,,SN74LVC2G04DCKRG4,
+U15,74_2G00,Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm,https://www.ti.com/lit/ds/symlink/sn74lvc2g00.pdf,,296-13257-1-ND,,SN74LVC2G00DCTR,
+U20,74_193,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://assets.nexperia.com/documents/data-sheet/74HC_HCT193_Q100.pdf,,1727-7974-1-ND,,74HCT193PW-Q100J,
+U21,74_193,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://assets.nexperia.com/documents/data-sheet/74HC_HCT193_Q100.pdf,,1727-7974-1-ND,,74HCT193PW-Q100J,
+U22,74_193,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://assets.nexperia.com/documents/data-sheet/74HC_HCT193_Q100.pdf,,1727-7974-1-ND,,74HCT193PW-Q100J,
+U23,74_193,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://assets.nexperia.com/documents/data-sheet/74HC_HCT193_Q100.pdf,,1727-7974-1-ND,,74HCT193PW-Q100J,
+U24,74_573,Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm,https://www.ti.com/lit/ds/symlink/sn74lv573a.pdf,,296-3840-1-ND,,SN74LV573APWR,
+U25,74_573,Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm,https://www.ti.com/lit/ds/symlink/sn74lv573a.pdf,,296-3840-1-ND,,SN74LV573APWR,
+U30,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U31,74_1G79,TO_SOT_Packages_SMD:SOT-23-5,https://rocelec.widen.net/view/pdf/3dcfkklbla/NEXP-S-A0003511411-1.pdf,,1727-6079-1-ND,,"74LVC1G79GV,125",
+U40,74_3257,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://www.onsemi.com/pdf/datasheet/74fst3257-d.pdf,,74FST3257DTR2GOSCT-ND,,74FST3257DTR2G,
+U41,74_3257,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://www.onsemi.com/pdf/datasheet/74fst3257-d.pdf,,74FST3257DTR2GOSCT-ND,,74FST3257DTR2G,
+U90,AZ1117-3.3,TO_SOT_Packages_SMD:SOT-223-3_TabPin2,https://www.diodes.com/assets/Datasheets/AZ1117I.pdf,,AZ1117IH-3.3TRG1DICT-ND,,AZ1117IH-3.3TRG1,
+U10C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U11C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U12C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U13C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U14C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U15C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U1C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U20C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U21C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U22C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U23C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U24C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U25C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U3C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U3XC1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U40C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U41C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U5C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U6C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U7C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U8C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U90C1,1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+U90C2,1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+UX1,10MHz,Oscillators:Oscillator_SMD_EuroQuartz_XO53-4pin_5.0x3.2mm,https://ecsxtal.com/store/pdf/ecs-3961_3963.pdf,,XC1898CT-ND,,ECS-3961-100-AU-TR,
+UX2,74_163,Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm,https://www.ti.com/lit/ds/scls405f/scls405f.pdf,,296-12347-1-ND,,SN74LV163APWR,
+UX1C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
+UX2C1,0.1uF,Capacitors_SMD:C_0603,~,,,,,"SMD 0603 X5R, X7R, 10V minimum"
